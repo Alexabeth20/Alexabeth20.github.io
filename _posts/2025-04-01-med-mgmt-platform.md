@@ -58,4 +58,4 @@ Developing this guide significantly improved my technical writing skills in clar
 
 For future documentation, I aim to create advanced guides on API testing strategies in healthcare platforms, further enriching my portfolio and expertise in technical writing.
 
-### [Project Link](/assets/lib/assets/pdf/med-mgmt-platform.pdf)
+### [Project Link](assets/lib/assets/pdf/med-mgmt-platform.pdf)
