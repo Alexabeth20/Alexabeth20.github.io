@@ -8,13 +8,15 @@ order: 4
 {: .prompt-info } -->
 
 ---
-I believe tech writing is the unsung hero bridging the gap between groundbreaking products and empowered users. Great documentation isn't just a manual—it's the lifeline that guides users confidently through every step, transforming confusion into clarity and hesitation into action. I thrive in this specialized and essential role, crafting precise, engaging content that makes complex technologies like cloud computing, networking, and quantum computing accessible and exciting.
+I believe technical writing is far more than manuals and instructions—it's a powerful bridge between emerging technology and the human spirit. At its best, it’s the voice that brings clarity to complexity, trust to uncertainty, and accessibility to innovation. Whether I’m writing about cloud infrastructure, quantum computing, or AI systems, I strive to ensure that every piece of documentation empowers users and honors the intelligence of the reader.
 
-My passion goes beyond writing; I'm deeply fascinated by Quality Assurance, recognizing that impeccable quality directly enhances user experience and internal efficiency. I'm constantly exploring intriguing concepts like Artificial General Intelligence (AGI), AI ethics and risks, and how AI shapes human cognition, ensuring my work stays at the forefront of innovation.
+With a background rooted in compliance and user support, I’ve cultivated a unique passion for quality assurance, ethical tech, and the intersection of human consciousness with intelligent systems. My writing is grounded in curiosity and care—designed to translate the invisible into the intuitive.
 
-Outside my professional pursuits, I embrace curiosity wholeheartedly—traveling to new destinations, tasting exotic cuisines, and diving into mindful meditation—all fueling my creativity and expanding my worldview. My naturally inquisitive nature drives me to continually learn and research, even in fields that once intimidated me, always aiming to see the complete picture and communicate it clearly to others.
+I’m especially passionate about writing for technologies that shape our collective future: artificial general intelligence (AGI), AI ethics, responsible development, and tools that elevate human potential. My goal is to be a trusted communicator in this space, guiding both users and companies toward more transparent, compassionate, and purpose-aligned technology.
 
-In essence, tech writing isn’t just my career; it’s a dynamic intersection of curiosity, clarity, and passion, making technology not only understandable but also exciting and impactful for every user.
+Outside of work, I’m a lifelong learner, avid meditator, and explorer of all things meta. I love investigating the deeper connections between science, conciousness, and society—and bringing that expanded perspective into everything I create.
+
+To me, tech writing is not just a profession—it’s a calling to ensure the future is not only built smart, but also written with intention, empathy, and vision.
 
 <div style="text-align: left;">
   <img src="assets/AMSignature.png" alt="Signature" width="200" />

@@ -53,9 +53,11 @@ Creating this technical documentation reinforced the importance of:
 # Reflection
 
 Developing this guide significantly improved my technical writing skills in clarity, brevity, and logical structuring. I learned the importance of anticipating user needs and proactively including troubleshooting steps, ultimately creating a more intuitive and helpful guide.
-
+ 
 # Next Steps
 
 For future documentation, I aim to create advanced guides on API testing strategies in healthcare platforms, further enriching my portfolio and expertise in technical writing.
 
-### [Project Link](assets/lib/assets/pdf/med-mgmt-platform.pdf)
+### [Project Link](assets/lib/assets/pdf/MedMgmtPlatform.pdf) 
+
+
