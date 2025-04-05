@@ -22,6 +22,7 @@ To address these issues, I authored a comprehensive user guide structured around
 - **Report Generation:** Simple processes for creating adherence reports and securely exporting/sharing them.
 - **Troubleshooting:** An organized section of common issues and quick resolution methods, such as password resets and alert management glitches.
 - **User Roles Management:** Explicit descriptions of roles—Pharmacist, Clinician, Admin—and their associated permissions.
+- **Documentation Tools Used:** This guide was created and managed using **Jira** and **Confluence** to ensure organized collaboration and easy content updates.
 
 # Impact
 
