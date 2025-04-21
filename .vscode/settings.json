@@ -26,5 +26,9 @@
   // Run tasks in macOS
   "terminal.integrated.profiles.osx": {
     "zsh": { "path": "/bin/zsh", "args": ["-l", "-i"] }
-  }
+  },
+  // Disable auto-export of HTML/PDF on save
+  "markdown-pdf.exportOnSave": false,
+  "markdown-pdf.saveInPlace": false,
+  "markdown-preview-enhanced.exportOnSave": false
 }
