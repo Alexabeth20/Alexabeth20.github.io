@@ -44,7 +44,7 @@ Each section includes:
 
 This project pushed me to combine my cloud training with real-world writing and compliance scenarios. I overcame technical obstacles (including setting up a Windows VM, installing dependencies, and resolving XHTML validation errors in Flare), and I now have a polished, professional artifact to show my readiness for a technical writing or cloud documentation role.
 
-I also ran into a frustrating but common Windows issue during the build process — Flare was repeatedly denied access to the output directory due to locked files. Despite restarting, running as admin, and cleaning the project, the build kept failing. Eventually, I manually explored the output folder, deleted its contents, and that resolved the error. This experience reinforced the value of persistence, curiosity, and hands-on troubleshooting — all essential skills for technical writers working across platforms.
+I also ran into a frustrating but common Windows issue during the build process. Flare was repeatedly denied access to the output directory due to locked files. Despite restarting, running as admin, and cleaning the project, the build kept failing. Eventually, I manually explored the output folder, deleted its contents, and that resolved the error. This experience reinforced the value of persistence, curiosity, and hands-on troubleshooting — all essential skills for technical writers working across platforms.
 
 ## Next Steps
 
@@ -53,5 +53,4 @@ I also ran into a frustrating but common Windows issue during the build process 
 - Begin the next project: automating a simple vulnerability scan using AWS CLI or Terraform and documenting that process
 
 ### Project Links
-
-[IaC Getting Started Guide]()
+[GitHub Repo](https://github.com/Alexabeth20/CloudSecurityGuide-madcap)
