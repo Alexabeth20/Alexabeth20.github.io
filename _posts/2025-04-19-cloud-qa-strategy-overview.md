@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Cloud QA Strategy Project Overview"
-date: 2025-04-19 09:00:00 -0400
+date: 2025-04-19 09:33:00 -0400
 categories: [Portfolio]
-tags: [Cloud, Security, Cloud Testing]
+tags: [cloud, security, testing]
 ---
 # Context
 

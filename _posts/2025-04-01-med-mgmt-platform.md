@@ -3,7 +3,7 @@ layout: post
 title: "[Mock] Medication Management Platform API"
 date: 2025-04-01 12:00:00 +0000
 categories: [Portfolio]
-tags: [Medication, Healthcare, API]
+tags: [medication, healthcare, api]
 ---
 
 # Context

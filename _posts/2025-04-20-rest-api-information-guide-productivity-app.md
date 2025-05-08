@@ -3,7 +3,7 @@ layout: post
 title: "Interactive REST API Documentation for a SaaS Productivity App"
 date: 2025-04-20 09:00:00 -0400
 categories: [Portfolio]
-tags: [Cloud, API, Cloud Testing, QA]
+tags: [cloud, api, cloud-testing, testing, portfolio-project, swagger, openapi]
 ---
 # Context
 

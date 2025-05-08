@@ -3,7 +3,7 @@ layout: post
 title: "Infrastructure as Code (IaC) Getting Started Guide"
 date: 2025-05-01 0:05:00 -0400
 categories: [Portfolio]
-tags: [Infrastructure as Code, Terraform, AWS CDK, CloudFormation, Technical Writing, DevOps, Cloud, Testing]
+tags: [infrastructure-as-code, terraform, aws sdk, cloudformation, devops, cloud, testing]
 ---
 
 # Context
