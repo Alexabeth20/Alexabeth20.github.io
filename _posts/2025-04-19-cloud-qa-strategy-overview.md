@@ -75,4 +75,9 @@ This project bridged my intrest in QA testing with my growing technical writing 
 - Integrate results with dashboards (Grafana, CloudWatch)
 - Convert the Markdown into a live documentation site using GitHub Pages or MkDocs
 
-### [Project Link](/assets/DocCloudStrategy.md)
+### Project Link
+
+> Right-click the link and choose “Open in new tab” if you don’t want to leave this page.
+{: .prompt-tip }
+
+[Cloud Strategy Doc (Markdown format)](/assets/DocCloudStrategy.md)

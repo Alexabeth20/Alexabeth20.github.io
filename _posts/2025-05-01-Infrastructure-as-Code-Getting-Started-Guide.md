@@ -39,4 +39,7 @@ Through this project, I deepened my understanding of not only how these tools wo
 
 ### Project Links
 
-[IaC Getting Started Guide](/assets/pdf/IAC Starter Guide.pdf)
+> Right-click the link and choose “Open in new tab” if you don’t want to leave this page.
+{: .prompt-tip }
+
+[IaC Getting Started Guide (PDF format)](/assets/pdf/IAC Starter Guide.pdf)

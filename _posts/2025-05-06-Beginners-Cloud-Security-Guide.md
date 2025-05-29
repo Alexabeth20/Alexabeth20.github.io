@@ -53,4 +53,10 @@ I also ran into a frustrating but common Windows issue during the build process.
 - Begin the next project: automating a simple vulnerability scan using AWS CLI or Terraform and documenting that process
 
 ### Project Links
+
+> Right-click a link and choose “Open in new tab” if you don’t want to leave this page.
+{: .prompt-tip }
+
 [GitHub Repo](https://github.com/Alexabeth20/CloudSecurityGuide-madcap)
+
+[Full Markdown File](/assets/cloud-security-best-practices.md)

@@ -59,5 +59,10 @@ Developing this guide significantly improved my technical writing skills in clar
 
 For future documentation, I aim to create advanced guides on API testing strategies in healthcare platforms, further enriching my portfolio and expertise in technical writing.
 
-### [Project Link](/assets/pdf/MedMgmtPlatform.pdf)
+### Project Link
+
+> Right-click the link and choose “Open in new tab” if you don’t want to leave this page.
+{: .prompt-tip }
+
+[Med Platform API Guide (PDF format)](/assets/pdf/MedMgmtPlatform.pdf)
 

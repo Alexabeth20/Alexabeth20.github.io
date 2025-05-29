@@ -50,6 +50,9 @@ Before this project, I had a limited understanding of how REST APIs worked under
 
 ### Project Links
 
-[API Onboarding Guide](/api-onboarding-guide/rest-api-productivity-app-onboarding-guide.md)
+> Right-click a link and choose “Open in new tab” if you don’t want to leave this page.
+{: .prompt-tip }
+
+[API Onboarding Guide (Markdown format)](/api-onboarding-guide/rest-api-productivity-app-onboarding-guide.md)
 
 [OpenAPI.yaml](/api-onboarding-guide/openapi.yaml)
