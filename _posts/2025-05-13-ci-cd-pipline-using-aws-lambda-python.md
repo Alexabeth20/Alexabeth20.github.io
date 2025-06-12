@@ -54,6 +54,6 @@ Before this project, I was aware of CI/CD in theory but had not documented the p
 > Right-click a link and choose “Open in new tab” if you don’t want to leave this page.
 {: .prompt-tip }
 
-- [CI/CD Pipeline Knowledge Article (Markdown format)](/assets/ci-cd-pipline-using-aws-lambda.md)
+- [CI/CD Pipeline Knowledge Article (Markdown format)](/workspaces/Alexabeth20.github.io/assets/ci-cd-pipeline-using-aws-lambda.md)
 
 - [CI/CD Pipeline Knowledge Article (MadCap format - Github Repo)](https://github.com/Alexabeth20/ci-cd-pipeline-doc.git)

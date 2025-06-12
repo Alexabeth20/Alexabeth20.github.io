@@ -39,7 +39,7 @@ If companies fail to build user trust, they risk more than financial losses. The
 
 One of the most overlooked causes of AI harm is the data itself. If your data reflects the biases of history, your AI will too.
 
-Amber Nigam, co-founder and CEO of [Basys.ai](http://basys.ai/), notes that many underrepresented groups—especially African Americans and other minorities—are often left out of training datasets altogether. This lack of representation leads to outputs that fail to serve (or actively harm) those communities.
+Amber Nigam, co-founder and CEO of [Basys AI](https://basys.ai), notes that many underrepresented groups—especially African Americans and other minorities—are often left out of training datasets altogether. This lack of representation leads to outputs that fail to serve (or actively harm) those communities.
 
 > Solution: Actively audit datasets for representation across race, gender identity, age, ability, and geography. Use balancing techniques to ensure fairness, and supplement with synthetic data when necessary to close gaps.
 
