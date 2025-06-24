@@ -45,9 +45,7 @@ For businesses, this kind of automation ensures uptime and reliability for criti
 
 ## Reflection
 
-This project reminded me that small wins in automation testing add up to major impact. By successfully validating a core feature, I built both technical skill and QA confidence. I look forward to expanding this project to include negative login scenarios, form validations, and even report generation within OrangeHRM.
-
-Testing is not just about finding bugs—it's about ensuring smooth user experiences, especially in systems people rely on daily, like HR software.
+This project reminded me that small wins in automation testing add up to major impact. By successfully validating a core feature, I built both technical skill and QA confidence. I look forward to expanding my skillset with similar projects.
 
 ### Project Links
 
