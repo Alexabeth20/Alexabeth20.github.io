@@ -30,6 +30,16 @@ The finished Swagger UI preview allows viewers to see the API in action and expe
 
 ![Yaml file shown in Swagger editor](/assets/swagger-editor.png)
 
+## HTTP Methods Overview
+Since clear explanations are essential in technical writing, here's how I break down the core API operations:
+
+| HTTP Method | Purpose | Example Use |
+|-------------|---------|-------------|
+| GET | Retrieve data | Get user profile or task list |
+| POST | Create new data | Add new task or user |
+| PUT | Update existing data | Edit task details or user info |
+| DELETE | Remove data | Delete completed task |
+
 # Key Takeaways
 
 - YAML is the preferred format for OpenAPI specs because of its readability.
@@ -39,14 +49,7 @@ The finished Swagger UI preview allows viewers to see the API in action and expe
 
 # Reflection
 
-Before this project, I had a limited understanding of how REST APIs worked under the hood. Through this process, I not only learned the full lifecycle of an API call but also how to communicate that effectively to developers who may be unfamiliar. This experience significantly boosted my confidence in both technical writing and foundational backend workflows.
-
-# Next Steps
-
-- Host the Swagger UI experience on GitHub Pages or Netlify
-- Create a mock server using Postman or JSON Server to test API calls
-- Expand the API with new endpoints such as project management and file sharing
-- Add a video walkthrough for developers who prefer visual tutorials
+Before this project, I had a limited understanding of how REST APIs worked under the hood. Through this process, I not only learned the full lifecycle of an API call but also how to communicate that effectively. This experience significantly boosted my confidence in both technical writing and foundational backend workflows.
 
 ### Project Links
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Infrastructure as Code (IaC) Getting Started Guide"
-date: 2025-05-01 0:05:00 -0400
+date: 2025-05-01 09:05:00 -0400
 categories: [Portfolio]
 tags: [infrastructure-as-code, terraform, aws sdk, cloudformation, devops, cloud, testing]
 ---
@@ -12,7 +12,7 @@ As organizations increasingly adopt cloud-based infrastructure and DevOps practi
 
 # Solution
 
-I created a comprehensive guide that explains core IaC concepts in plain language, walks through installation and configuration, and demonstrates how to provision resources using each tool. For each IaC solution (Terraform, CloudFormation, and CDK), I included sample configurations, syntax, version control practices, and beginner-friendly explanations of testing workflows. The guide also includes a table of contents for ease of navigation and modular learning.
+I created a comprehensive guide that explains core IaC concepts in plain language, walks through installation and configuration, and demonstrates how to provision resources using each tool. For each IaC solution (Terraform, CloudFormation, and CDK), I included sample configurations, syntax, version control practices, and beginner-friendly explanations of testing workflows. The guide also includes a table of contents for ease of navigation.
 
 # Impact
 
@@ -28,18 +28,11 @@ For an organization, adopting a well-documented IaC approach can significantly r
 
 # Reflection
 
-Through this project, I deepened my understanding of not only how these tools work individually, but also how they align philosophically with different teams and workflows. Writing this guide challenged me to distill complex topics into digestible sections, which improved my technical writing skills and reinforced my own IaC knowledge. I also learned about the importance of infrastructure testing—a frequently overlooked but critical aspect of cloud reliability.
-
-# Next Steps
-
-- Add animated walkthroughs or screen recordings of each tool in action.
-- Expand the guide to include modules, remote state management, and CI/CD integration.
-- Create a separate advanced-level guide for testing strategies and infrastructure as testable software components.
-- Share a printable PDF version and a Confluence-importable version for broader use by engineering teams.
+Through this project, I deepened my understanding of not only how these tools work individually, but also how they align with different teams and workflows. Writing this guide challenged me to distill complex topics into digestible sections, which improved my technical writing skills and reinforced my own IaC knowledge from my AWS Cloud Institute  journey. I also learned about the importance of infrastructure testing—a frequently overlooked but critical aspect of cloud reliability.
 
 ### Project Links
 
 > Right-click the link and choose “Open in new tab” if you don’t want to leave this page.
 {: .prompt-tip }
 
-[IaC Getting Started Guide (PDF format)](/assets/pdf/IAC Starter Guide.pdf)
+[IaC Getting Started Guide (PDF format)](/assets/pdf/iac-starter-guide.pdf)

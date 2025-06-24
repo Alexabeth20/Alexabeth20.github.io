@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "[Mock] Medication Management Platform API"
-date: 2025-04-01 12:00:00 +0000
+title: "[Mock] Medication Management Platform User Guide"
+date: 2025-06-16 12:00:00 +0000
 categories: [Portfolio]
-tags: [medication, healthcare, api]
+tags: [medication, healthcare, user-guide]
 ---
 
 # Context
@@ -16,17 +16,19 @@ Healthcare teams often face difficulties in accurately monitoring patient medica
 
 # Solution
 
-To address these issues, I authored a comprehensive user guide structured around key functionalities:
+To address these issues, a comprehensive user guide was created that structured around key functionalities:
 - **Dashboard Navigation:** Clear instructions for logging in with security considerations like Multi-Factor Authentication (MFA).
 - **Alert Management:** Detailed steps on resolving medication alerts, understanding various alert types (missed doses, medication conflicts, dosage adjustments), and escalating issues appropriately.
 - **Report Generation:** Simple processes for creating adherence reports and securely exporting/sharing them.
 - **Troubleshooting:** An organized section of common issues and quick resolution methods, such as password resets and alert management glitches.
 - **User Roles Management:** Explicit descriptions of roles—Pharmacist, Clinician, Admin—and their associated permissions.
-- **Documentation Tools Used:** This guide was created and managed using **Jira** and **Confluence** to ensure organized collaboration and easy content updates.
+
+# Tools & Process
+This guide was created and managed using **Jira** and **Confluence**.
 
 # Impact
 
-Implementing this guide improved operational efficiency, streamlined medication adherence monitoring, and enhanced overall patient safety. Healthcare teams reported quicker resolution of medication alerts and more accurate, timely generation of adherence reports, improving both compliance and patient care.
+Implementing guides such as this, improves an organization's operational efficiency, streamline medication adherence monitoring, and enhance overall patient safety. Healthcare teams may even report quicker resolution of medication alerts and more accurate, timely generation of adherence reports, improving both compliance and patient care.
 
 # Key Takeaways
 
@@ -54,15 +56,11 @@ Creating this technical documentation reinforced the importance of:
 # Reflection
 
 Developing this guide significantly improved my technical writing skills in clarity, brevity, and logical structuring. I learned the importance of anticipating user needs and proactively including troubleshooting steps, ultimately creating a more intuitive and helpful guide.
- 
-# Next Steps
-
-For future documentation, I aim to create advanced guides on API testing strategies in healthcare platforms, further enriching my portfolio and expertise in technical writing.
 
 ### Project Link
 
 > Right-click the link and choose “Open in new tab” if you don’t want to leave this page.
 {: .prompt-tip }
 
-[Med Platform API Guide (PDF format)](/assets/pdf/MedMgmtPlatform.pdf)
+[Med Platform API Guide (PDF format)](/assets/pdf/mock-med-platform-getting-started-guide.pdf)
 

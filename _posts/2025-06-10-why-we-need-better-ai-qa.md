@@ -31,9 +31,13 @@ AI systems hallucinate—they generate confident but false or misleading informa
 
 This is where quality assurance (QA) becomes essential—not just as a technical process, but as a moral imperative. Just like in cybersecurity, the concept of “shifting left” must apply to AI safety—embedding rigorous QA, ethical review, and misuse testing early in the development cycle.
 
-If companies fail to build user trust, they risk more than financial losses. The consequences could include lawsuits, regulation, loss of public confidence, or even global harm. From startup founders to boardroom executives, we all have a stake in getting this right. Because one day, the very AI tools we release could be the ones making decisions about us.
+If companies fail to build user trust, they risk more than financial losses. The consequences could include lawsuits, regulation, loss of public confidence, or even global harm. From startup founders to boardroom executives, we all have a stake in getting this right. **Because one day, the very AI tools we release could be the ones making decisions about us.**
 
 ## Here Are Some Ways to Get It Right
+
+The good news? We're not powerless against these risks. The AI industry is beginning to recognize that safety isn't just a "nice to have it" essential for sustainable growth and public trust. While there's no silver bullet, there are proven strategies and emerging best practices that can significantly reduce the likelihood of harmful AI incidents.
+
+The following approaches represent both established QA principles adapted for AI and alternative techniques specifically designed for the unique challenges of machine learning systems. 
 
 ### Dataset Diversification and Balancing
 
@@ -87,11 +91,11 @@ AI shouldn't operate without fail-safes. In high-risk situations—like healthca
 > Solution: Build escalation paths. If the AI encounters sensitive topics (suicide, abuse, criminal behavior), it should stop and escalate rather than engage further.
 
 ---
-AI is not just software-it’s a mirror of our society and values. And when that mirror is flawed, we risk amplifying harm rather than solving problems.
+AI is not just software. It’s a mirror of our society and values. And when that mirror is flawed, we risk amplifying harm rather than solving problems.
 
 Quality assurance in AI isn’t optional. It’s the only way to ensure these tools serve people rather than endanger them. Whether you're a tester, tech writer, or concerned citizen, your voice and vigilance matter. By advocating for better data, stronger checks, and ethical design, we can build AI systems that elevate rather than exploit humanity.
 
-Let's test for what trule matters because the cost of getting it wrong is too high. I mean who wants to live through the Terminator IRL?
+Let's test for what truly matters because the cost of getting it wrong is too high. I mean who wants to live through the Terminator IRL?
 
 ## Sources
 

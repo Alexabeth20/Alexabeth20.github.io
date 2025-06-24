@@ -15,20 +15,22 @@ Testing cloud applications introduces challenges beyond those of traditional sof
 
 # Solution
 
-To address these challenges, I developed a QA strategy focused on:
+To address these challenges, a QA strategy was created to focused on:
 
 - **Test Types Covered:** Functional, performance, scalability, and security testing strategies.
 - **Cloud Environment Setup:** Infrastructure configuration using AWS services such as EC2, S3, RDS, and ALB.
 - **Data Management:** Secure test data generation, masking, and rollback strategies.
 - **Continuous Testing Integration:** Automation of testing pipelines using GitHub Actions and Jenkins, integrated with AWS services.
-- **Documentation Tools Used:** Authored using Markdown in VS Code and version controlled in GitHub for transparency.
+
+# Tools & Process
+Documentation was authored using Markdown in **VS Code** and version controlled in GitHub.
 
 # QA Pipeline Overview
 ![QA Testing Pipeline](/assets/img/cloud-qa-architecture.svg)
 
 # Impact
 
-This QA strategy helped simulate a real-world cloud testing framework while demonstrating best practices in version control, automation, and environment replication.
+This QA strategy helped simulate a real-world cloud testing framework while demonstrating best practices in version control, automation, and environment replication. The comprehensive QA strategy provides actionable guidance for development teams while maintaining clarity and logical organization throughout.
 
 # Key Takeaways
 
@@ -47,13 +49,16 @@ Here's what each section of the workflow does:
 
 ```yaml
 name: Cloud QA Tests
+
 on: [push, pull_request]
+
 jobs:
   test:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
+
       - name: Run Selenium tests
         run: pytest tests/ui/
 ```
@@ -67,17 +72,11 @@ By including this file, testing becomes a seamless part of the development cycle
 
 # Reflection
 
-This project bridged my intrest in QA testing with my growing technical writing skills and cloud understanding. It gave me the opportunity to create documentation that mirrors how real teams plan, communicate, and test in a DevOps-driven cloud environment.
-
-# Next Steps
-
-- Build a live test suite based on this strategy
-- Integrate results with dashboards (Grafana, CloudWatch)
-- Convert the Markdown into a live documentation site using GitHub Pages or MkDocs
+This project bridged my interest in QA testing with my growing technical writing skills and cloud understanding. It gave me the opportunity to create documentation that mirrors how real teams plan, communicate, and test in a DevOps-driven cloud environment.
 
 ### Project Link
 
 > Right-click the link and choose “Open in new tab” if you don’t want to leave this page.
 {: .prompt-tip }
 
-[Cloud Strategy Doc (Markdown format)](/assets/DocCloudStrategy.md)
+[Cloud QA Strategy Documentation](/assets/DocCloudStrategy.md)

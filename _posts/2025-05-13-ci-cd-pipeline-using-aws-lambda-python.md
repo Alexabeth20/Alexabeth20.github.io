@@ -18,6 +18,13 @@ The solution involved creating a GitHub Actions workflow that automatically trig
 - Packages the Lambda function by zipping the project
 - Deploys the code using the AWS CLI by updating the specified Lambda function
 
+| Step | Action | Tool Used | Purpose |
+|------|--------|-----------|---------|
+| 1 | Install dependencies | pip | Prepare environment |
+| 2 | Run tests | pytest | Validate code quality |
+| 3 | Package function | zip | Prepare for deployment |
+| 4 | Deploy to AWS | AWS CLI | Update Lambda function |
+
 The process is clearly documented in a MadCap Flare knowledge article and includes a properly structured `.yml` workflow file located in `.github/workflows/deploy.yml`. This setup can be repurposed for other Python-based Lambda functions, providing a modular and reusable pattern for cloud development teams.
 
 ## Impact
@@ -40,14 +47,7 @@ This approach supports rapid iteration and continuous improvement, which are ess
 
 ## Reflection
 
-Before this project, I was aware of CI/CD in theory but had not documented the pipeline creation process step-by-step. This exercise gave me hands-on exposure to YAML syntax, GitHub Actions workflows, and the structure of real-world DevOps documentation. It also challenged me to explain complex processes in plain language, which improved both my technical writing and cloud architecture skills.
-
-## Next Steps
-
-- Expand this CI/CD pipeline to deploy multiple Lambda functions in a microservices setup
-- Integrate notifications (e.g., Slack or email) for deployment success/failure
-- Explore using the Serverless Framework or AWS SAM to define the infrastructure as code
-- Document variations for Node.js, container-based deployments, or multi-region Lambda strategies
+Before this project, while I understood CI/CD concepts theoretically, I had not documented the pipeline creation process step-by-step. This project provided hands-on experience to YAML syntax, GitHub Actions workflows, and the structure of real-world DevOps documentation. It also challenged me to explain complex processes in plain language, which improved both my technical writing and cloud architecture skills.
 
 ### Project Links
 
