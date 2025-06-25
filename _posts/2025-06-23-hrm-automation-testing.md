@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HRM Automation Testing: Streamlining Login Functionality with Selenium"
+title: "HRM Login Automation Testing with Selenium"
 date: 2025-06-10 12:33:00 +0000
 categories: [Portfolio]
 tags: [qa, selenium, sutomation, python, hrm, testing]
