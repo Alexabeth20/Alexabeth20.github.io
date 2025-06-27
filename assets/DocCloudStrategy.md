@@ -37,7 +37,7 @@
 **Tools & Stack:**
 - Postman for API testing
 - Selenium + WebDriver for UI testing
-- Cloud Advantage: Tests can be parallelized using containerized test runners (e.g., via AWS Fargate or EC2 Auto Scaling).
+- Cloud Advantage: Run tests on separate instances or containers to avoid blocking development environments (e.g.,AWS Fargate).
 
 ⸻
 
@@ -63,7 +63,7 @@
 **1.4 Security Testing**
 - **Purpose**: Assess vulnerabilities in the cloud deployment.
 - **Tools**:
-  - OWASP ZAP for penetration testing
+  - OWASP ZAP (Open Web Application Security Project or Zed Attack Proxy) for penetration testing
   - AWS Inspector and GuardDuty for automated cloud-native vulnerability scanning
   - IAM Policy Simulator to test access configurations
 - **Key Tests**:
@@ -76,7 +76,7 @@
 ## 2. Cloud Environment Setup (AWS Example)
 
 **2.1 Infrastructure Configuration**
-- **IAC Tools**: Terraform or AWS CloudFormation to create reproducible test environments
+- **IAC Tools**: Use CloudFormation (or basic Terraform) templates to set up a dev/test environment.
 - **Components**:
   - VPC with public/private subnets
   - EC2 instances, RDS, S3
@@ -98,13 +98,13 @@
 
 **3.1 Test Data Generation**
 - **Tools**: Faker (Python), Mockaroo
-- Use synthetic data to simulate user behavior, ensure GDPR compliance
-- Seed test data via scripts into isolated RDS test databases
+- Use synthetic data to mimick user behavior, ensure GDPR compliance
+- Use shell scripts or Python to load sample data into separate RDS test databases, ensuring a clean and consistent environment for testing.
 
 **3.2 Data Masking and Subsetting**
 - **Purpose**: Use production-like data safely
 - Mask PII before migrating copies to QA environments
-- **Tools**: AWS Glue, Lambda scripts for masking pipelines
+- **Tools**: AWS Macie, AWS Glue, AWS Lambda scripts for masking pipelines
 
 **3.3 Database Rollback Strategy**
 - RDS snapshots before test runs
@@ -128,7 +128,7 @@
 - End-to-end tests scheduled via nightly cron runs in cloud runners
 
 **4.3 Observability & Reporting**
-- Test results stored in S3
+- Test results stored in S3 bucket
 - Metrics visualized with Grafana + CloudWatch
 - Slack/Email alerts on test failures from CI pipeline
 

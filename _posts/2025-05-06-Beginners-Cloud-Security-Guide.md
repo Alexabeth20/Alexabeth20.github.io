@@ -51,6 +51,9 @@ I also ran into a frustrating but common Windows issue during the build process.
 > Right-click a link and choose “Open in new tab” if you don’t want to leave this page.
 {: .prompt-tip }
 
+> This workflow is based on a standard GitHub Actions template I studied at the AWS Cloud Institute. While I didn’t write it entirely from scratch, I modified it to suit the project’s test structure and repository setup.
+{: .prompt-info }
+
 [GitHub Repo](https://github.com/Alexabeth20/CloudSecurityGuide-madcap)
 
 [Full Markdown File](/assets/cloud-security-best-practices.md)

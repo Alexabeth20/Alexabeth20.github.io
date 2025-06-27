@@ -57,7 +57,7 @@ When AI is used as a first filter—such as scanning resumes or recommending tre
 
 ### Implement Adversarial and Misuse Testing
 
-We need to stop assuming AI will be used as intended. In the real world, people test limits, provoke responses, and find creative (or malicious) uses for tools.
+We need to stop assuming AI will be used as intended. In the real world, people test limits, provoke responses, and find creative (or, really malicious) uses for tools.
 
 > Solution: Perform adversarial QA—simulate hostile inputs, edge cases, and manipulative behavior. Test what happens when users act irrationally or maliciously. Validate that your AI behaves responsibly, even under pressure.
 
@@ -93,7 +93,7 @@ AI shouldn't operate without fail-safes. In high-risk situations—like healthca
 ---
 AI is not just software. It’s a mirror of our society and values. And when that mirror is flawed, we risk amplifying harm rather than solving problems.
 
-Quality assurance in AI isn’t optional. It’s the only way to ensure these tools serve people rather than endanger them. Whether you're a tester, tech writer, or concerned citizen, your voice and vigilance matter. By advocating for better data, stronger checks, and ethical design, we can build AI systems that elevate rather than exploit humanity.
+Quality assurance in AI isn’t optional. It’s the only way to ensure these tools serve people rather than endanger them. Whether you're a tester, tech writer, or concerned citizen, we all play a part in keeping these ecosystems safe. By advocating for better data, stronger checks, and ethical design, we can build AI systems that elevate rather than exploit humanity.
 
 Let's test for what truly matters because the cost of getting it wrong is too high. I mean who wants to live through the Terminator IRL?
 

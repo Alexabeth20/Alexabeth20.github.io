@@ -35,4 +35,7 @@ Through this project, I deepened my understanding of not only how these tools wo
 > Right-click the link and choose “Open in new tab” if you don’t want to leave this page.
 {: .prompt-tip }
 
+> Some code snippets used in the PDF documentation were adapted from my studies at the AWS Cloud Institute. While I didn't write every line from scratch, I made modifications to match the needs of this project.
+{: .prompt-info }
+
 [IaC Getting Started Guide (PDF format)](/assets/pdf/iac-starter-guide.pdf)

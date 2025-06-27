@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cloud QA Strategy Project Overview"
-date: 2025-04-19 09:33:00 -0400
+date: 2025-04-02 09:33:00 -0400
 categories: [Portfolio]
 tags: [cloud, security, testing]
 ---
@@ -21,12 +21,7 @@ To address these challenges, a QA strategy was created to focused on:
 - **Cloud Environment Setup:** Infrastructure configuration using AWS services such as EC2, S3, RDS, and ALB.
 - **Data Management:** Secure test data generation, masking, and rollback strategies.
 - **Continuous Testing Integration:** Automation of testing pipelines using GitHub Actions and Jenkins, integrated with AWS services.
-
-# Tools & Process
-Documentation was authored using Markdown in **VS Code** and version controlled in GitHub.
-
-# QA Pipeline Overview
-![QA Testing Pipeline](/assets/img/cloud-qa-architecture.svg)
+- **Tools & Process**: Documentation was authored using Markdown in **VS Code** and version controlled in GitHub.
 
 # Impact
 
@@ -46,6 +41,8 @@ Through this project I developed stronger skills in:
 This YAML configuration sets up a GitHub Actions workflow that automatically runs a suite of Selenium tests whenever code is pushed or a pull request is opened. Automating test execution at this stage ensures that new changes are validated early in the development process, reducing the risk of bugs reaching production.
 
 Here's what each section of the workflow does:
+> This workflow is based on a standard GitHub Actions template I studied during the project. While I didn’t write it entirely from scratch, I modified it to suit the project’s test structure and repository setup.
+{: .prompt-info }
 
 ```yaml
 name: Cloud QA Tests
@@ -64,7 +61,7 @@ jobs:
 ```
 
 - `on: [push, pull_request]` ensures that the workflow triggers on every new commit or pull request to the main branch.
-- `runs-on: ubuntu-latest` spins up a fresh virtual machine in GitHub's cloud to execute the tests.
+- `runs-on: ubuntu-latest` spins up a new virtual machine in GitHub's cloud to execute the tests.
 - `checkout@v3` pulls the current version of the code from the repository.
 - The `pytest` command runs automated Selenium test scripts located in the `tests/ui/` directory.
 
@@ -72,7 +69,7 @@ By including this file, testing becomes a seamless part of the development cycle
 
 # Reflection
 
-This project bridged my interest in QA testing with my growing technical writing skills and cloud understanding. It gave me the opportunity to create documentation that mirrors how real teams plan, communicate, and test in a DevOps-driven cloud environment.
+This project bridged my interest in QA testing with my growing technical writing skills and cloud understanding. It gave me the opportunity to create documentation that mirrors how real teams plan, communicate, and test in a DevOps-driven cloud environment. It also reinforced my skills in various cloud domains such as infrastructure as code, test automation, and secure cloud architecture.
 
 ### Project Link
 

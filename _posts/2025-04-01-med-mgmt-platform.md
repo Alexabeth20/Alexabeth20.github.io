@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Mock] Medication Management Platform User Guide"
-date: 2025-06-16 12:00:00 +0000
+date: 2025-04-01 12:00:00 +0000
 categories: [Portfolio]
 tags: [medication, healthcare, user-guide]
 ---
@@ -18,13 +18,13 @@ Healthcare teams often face difficulties in accurately monitoring patient medica
 
 To address these issues, a comprehensive user guide was created that structured around key functionalities:
 - **Dashboard Navigation:** Clear instructions for logging in with security considerations like Multi-Factor Authentication (MFA).
-- **Alert Management:** Detailed steps on resolving medication alerts, understanding various alert types (missed doses, medication conflicts, dosage adjustments), and escalating issues appropriately.
+- **Alert Management:** Detailed steps on resolving medication alerts, understanding alert types (missed doses, medication conflicts, dosage adjustments), and escalating issues appropriately.
 - **Report Generation:** Simple processes for creating adherence reports and securely exporting/sharing them.
 - **Troubleshooting:** An organized section of common issues and quick resolution methods, such as password resets and alert management glitches.
 - **User Roles Management:** Explicit descriptions of roles—Pharmacist, Clinician, Admin—and their associated permissions.
 
 # Tools & Process
-This guide was created and managed using **Jira** and **Confluence**.
+This guide was created and managed using **Confluence** in **Jira**.
 
 # Impact
 

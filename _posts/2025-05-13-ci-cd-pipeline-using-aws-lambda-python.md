@@ -8,7 +8,7 @@ tags: [ci-cd, github-actions, devops, automation, cloud, aws-lambda, python, tec
 
 ## Context
 
-In the world of cloud applications, development speed and reliability are critical. Manual deployments not only slow down progress but also increase the risk of human error. For this portfolio project, I documented a Continuous Integration and Continuous Deployment (CI/CD) pipeline for a Python-based AWS Lambda function. The pipeline uses GitHub Actions to automate the process of testing and deploying serverless backend code for an affordable housing compliance chatbot. This solution reflects a common real-world use case where technical teams want to rapidly ship updates to cloud-native apps without compromising quality or security.
+In the world of cloud applications, development speed and reliability are critical. Manual deployments not only slow down progress but also increase the risk of human error. For this portfolio project, I documented a Continuous Integration and Continuous Deployment (CI/CD) pipeline for a Python-based AWS Lambda function. The pipeline uses GitHub Actions to automate the process of testing and deploying serverless backend code for an affordable housing compliance chatbot. This project mirrors a real-world use case where technical teams want to rapidly ship updates to cloud-native apps without compromising quality or security.
 
 ## Solution
 
@@ -22,10 +22,11 @@ The solution involved creating a GitHub Actions workflow that automatically trig
 |------|--------|-----------|---------|
 | 1 | Install dependencies | pip | Prepare environment |
 | 2 | Run tests | pytest | Validate code quality |
-| 3 | Package function | zip | Prepare for deployment |
+| 3 | Package function (AWS Lambda) | zip | Prepare for deployment |
 | 4 | Deploy to AWS | AWS CLI | Update Lambda function |
 
-The process is clearly documented in a MadCap Flare knowledge article and includes a properly structured `.yml` workflow file located in `.github/workflows/deploy.yml`. This setup can be repurposed for other Python-based Lambda functions, providing a modular and reusable pattern for cloud development teams.
+The process is documented in a MadCap Flare knowledge article format and includes a properly structured `.yml` workflow file located in `.github/workflows/deploy.yml`. This setup can be repurposed for other Python-based Lambda functions, providing a modular and reusable pattern for cloud development teams.
+
 
 ## Impact
 
@@ -47,12 +48,15 @@ This approach supports rapid iteration and continuous improvement, which are ess
 
 ## Reflection
 
-Before this project, while I understood CI/CD concepts theoretically, I had not documented the pipeline creation process step-by-step. This project provided hands-on experience to YAML syntax, GitHub Actions workflows, and the structure of real-world DevOps documentation. It also challenged me to explain complex processes in plain language, which improved both my technical writing and cloud architecture skills.
+Before this project, while I understood CI/CD concepts theoretically, I had not documented the pipeline creation process step-by-step. To become more proficient in these processes, I created this documentation during the time I was learning DevOps in AWS Cloud Institute. This project provided hands-on experience to YAML syntax, GitHub Actions workflows, and the structure of real-world DevOps documentation. It also challenged me to explain complex processes in plain language, which improved both my technical writing and cloud architecture knowledge.
 
 ### Project Links
 
 > Right-click a link and choose “Open in new tab” if you don’t want to leave this page.
 {: .prompt-tip }
+
+> The GitHub Actions workflow used in this project was adapted from a lab exercise in the AWS Cloud Institute DevOps track. I customized it to suit the needs of this project, while also consulting with GitHub Actions Documentation. 
+{: .prompt-info }
 
 - [CI/CD Pipeline Knowledge Article (Markdown format)](/assets/ci-cd-pipeline-using-aws-lambda.md)
 

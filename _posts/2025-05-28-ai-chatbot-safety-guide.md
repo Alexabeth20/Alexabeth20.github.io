@@ -47,9 +47,17 @@ The frameworks and tools presented here help to:
 - Conversational AI needs rigorous testing of edge cases, adversarial behavior, and factual integrity.
 - Effective safety QA helps companies avoid costly AI incidents and builds long-term user trust.
 
+## Skills Practiced 
+- YAML scripting
+- Python test automation
+- QA pipeline design
+- Prompt engineering
+- Bias evaluation
+- Ethical testing protocols
+
 ## Reflection
 
-This project taught me how to translate complex, evolving AI testing concepts into concrete executable QA workflows. I learned how to blend ethical considerations with hands-on testing strategies, and how industry-wide responsibility plays a role in what used to be considered just a "technical task." Prior to this project, I assumed that testing is just for QA professionals and engineers. However, testing is the responsibility of all those involved in creating AI software.
+This project taught me how to translate complex, evolving AI testing concepts into concrete executable QA workflows. It was the result of independent research combined with structured learning from the coursework in AWS Cloud Institute and AI courses in Skill Builder. I learned how to blend ethical considerations with hands-on testing strategies, and how industry-wide responsibility plays a role in what used to be considered just a "technical task." Prior to this project, I assumed that testing is just for QA professionals and engineers. However, testing is the responsibility of all those involved in creating AI software.
 
 This work demonstrates how QA now encompasses ethics, safety, and governance—highlighting the evolving nature of quality assurance in AI systems.
 
@@ -60,6 +68,9 @@ This work demonstrates how QA now encompasses ethics, safety, and governance—h
 
 > Right-click the link and choose “Open in new tab” if you don’t want to leave this page.
 {: .prompt-tip }
+
+> This project draws on concepts learned through the AWS Cloud Institute, particularly their AI courses in Skill Builder, as well as independent research and formatting inspiration from industry documentation. While the final output is my own, several structures and testing frameworks were shaped by insights gained through those learning paths.
+{: .prompt-info }
 
 - [Guide to Testing AI Chatbot Safety and Reliability (PDF format)](/assets/pdf/ai-chat-bot-safety-guide.pdf)
 
