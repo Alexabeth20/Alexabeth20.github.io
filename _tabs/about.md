@@ -8,19 +8,42 @@ order: 4
 {: .prompt-info } -->
 
 ---
-I believe technical writing is far more than manuals and instructions—it's a powerful bridge between emerging technology and the public. At its best, it’s the voice that brings clarity to complexity, trust to uncertainty, and accessibility to innovation. Whether I’m writing about cloud infrastructure, quality assurance, quantum computing, or AI systems, I strive to ensure that every piece of documentation empowers users and honors the intelligence of the reader.
+## Overview
 
-With a background rooted in compliance and user support, I’ve cultivated a unique passion for quality assurance, ethical tech, and the intersection of consciousness with intelligent systems. My writing is grounded in curiosity and care—designed to translate the invisible into the intuitive.
+I'm a Technical Writer on a personal mission to make complex technology accessible to everyone. Currently transitioning from Product Support to full-time technical writing, I bring a unique perspective shaped by my background in compliance and user support. 
 
-I’m especially passionate about writing for technologies that shape our collective future: artificial general intelligence (AGI), AI ethics, responsible development, and testing tools and frameworks that elevate human potential. My goal is to be a trusted communicator in this space, guiding both users and companies toward more transparent, compassionate, and purpose-aligned technology.
+## Background & Transition
 
-Outside of work, I’m a lifelong learner, avid meditator, and explorer of all things meta. I love investigating the deeper connections between science, consciousness, and society and bringing that expanded perspective into everything I create.
+My career began in affordable housing compliance, where I spent over a decade creating clear policies and training materials. Working in a regulation-heavy industry taught me the importance of precise, user-focused documentation. Users need to understand your product in order to adopt it effectively.  
 
-Tech writing ensures the future is not only built smart, but also written with intention, empathy, and vision.
+As a former Director of Compliance, I led documentation initiatives that resulted in a 34% decrease in compliance violation findings. When employees have better communication, they’re more successful at following policies.
 
- <!-- <div style="text-align: left;">
-  <img src="assets/AMSignature.png" alt="Signature" width="200" />
-</div> #  -->
+Previously, I spent eleven years as a Senior Compliance Manager, where I developed comprehensive training materials for real estate software applications. I managed multiple writing assignments, including Standard Operating Procedures (SOPs), policy guides, and communication with agencies, vendors, and residents—all while meeting tight deadlines.
+
+In 2023, I joined a leading real estate software company as a Technical Support Specialist. There, I analyzed user behavior and the challenges users face with technology. This experience deepened my commitment to creating clear, empowering documentation that helps users solve problems independently. It also sparked a growing interest in quality assurance within documentation—focusing on accuracy, usability testing, and maintaining high standards for all user-facing content.
+
+## Technical Expertise
+
+My toolkit includes:
+
+| Category | Skills |
+|----------|--------|
+| **Documentation Tools** | Confluence, Notion, SharePoint, Adobe InDesign, MadCap Flare |
+| **Technical Skills** | HTML, CSS, XML, GitHub, Markdown, Salesforce |
+| **Project Management** | Jira, Smartsheet, multi-project coordination |
+| **Specialized Areas** | Cloud infrastructure, quality assurance |
+| **Languages** | English (native), Spanish (conversational) |
+
+## Current Focus
+
+I'm actively expanding my technical skills through certifications in Computer Science (Harvard EdX), AWS Cloud Practitioner, and AI Development (IBM). My goal is to become a trusted voice in documenting emerging technologies, especially AI ethics, responsible development, and testing frameworks.
+
+## Personal Philosophy
+
+Outside of work, I'm a lifelong learner and avid meditator who explores the connections between technology, consciousness, and society. 
+
+### Favorite Place in the World
+Iceland. The most dramatic landscapes you will ever see. 🏔️
 
 ---
 ## About this site
@@ -28,5 +51,3 @@ Tech writing ensures the future is not only built smart, but also written with i
 This site was built using the [Chirpy Jekyll Theme](https://github.com/cotes2020/jekyll-theme-chirpy), a modern and responsive blogging theme for technical portfolios and blogs.  
 
 To learn more or implement it yourself, visit the [official Chirpy documentation](https://chirpy.cotes.page/).
-
-
